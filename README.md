@@ -11,46 +11,20 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Software Engineer** passionate about building reliable and scalable systems  
-- 🧠 Strong focus on **backend development**, **architecture**, and **cloud solutions**
-- 🎯 I believe in **clean code**, thoughtful design, and real-world impact
-- 📚 Constantly learning: *system design, AI, modern tooling*
-- 🌍 Based in **Rostov-on-Don, Russia 🇷🇺**
+- 👨‍💻 Software Engineer building reliable and scalable systems  
+- 🧠 Focused on backend, architecture, and mobile development  
+- 🎯 Clean code, clear structure, real-world impact  
+- 📚 Always learning system design and modern tooling  
+- 🌍 Rostov-on-Don, Russia 🇷🇺
 
 ---
 
-## 🧩 How I Build Things
+## 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=terminal" />
-  <img src="https://skillicons.dev/icons?i=debug" />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js,ts,bash,androidstudio,android,apple,ktor,gradle,firebase,linux,postgres,mysql,redis,nginx,docker,git,github,postman,grafana,idea,vscode,githubactions,ubuntu" />
 </p>
 
 <p align="center">
-  Idea → Architecture → Code → Test → Improve
+  <i>Clean code. Thoughtful systems.</i>
 </p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,python,sql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,ktor,postgres,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker" />
-</p>
-
-```text
-Languages:        Kotlin • Swift • Python • SQL
-Mobile:           Android (Kotlin) • iOS (SwiftUI)
-Backend:          Ktor • REST APIs • Databases
-Databases:        PostgreSQL • MySQL
-Tools & DevOps:   Git • Linux • Docker
