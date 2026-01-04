@@ -22,7 +22,7 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js,ts,bash,androidstudio,firebase,apple,ktor,gradle,firebase,linux,postgres,mysql,redis,nginx,docker,git,github,postman,grafana,idea,vscode,githubactions,ubuntu,wordpress," />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js,ts,bash,androidstudio,firebase,apple,ktor,gradle,firebase,linux,postgres,mysql,nginx,git,github,postman,idea,vscode,githubactions,ubuntu,wordpress," />
 </p>
 
 <p align="center">
