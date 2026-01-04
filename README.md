@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Mindset-Growth-orange?style=flat-square" />
 </p>
 
-## 🛠 Tech & Tools
+## Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js,ts,bash,androidstudio,firebase,apple,googlecloud,gradle,firebase,linux,postgres,mysql,nginx,git,github,postman,idea,vscode,githubactions,ubuntu,wordpress,aws,clion,notion,webstorm,ktor" />
@@ -17,7 +17,7 @@
 ---
 
 
-## 🚀 About Me
+## About Me
 
 - 👨‍💻 Software Engineer building reliable and scalable systems  
 - 🧠 Focused on backend, architecture, and mobile development  
