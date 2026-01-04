@@ -7,7 +7,15 @@
   <img src="https://img.shields.io/badge/Mindset-Growth-orange?style=flat-square" />
 </p>
 
+## 🛠 Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js,ts,bash,androidstudio,firebase,apple,googlecloud,gradle,firebase,linux,postgres,mysql,nginx,git,github,postman,idea,vscode,githubactions,ubuntu,wordpress,aws,clion,notion,webstorm,ktor" />
+</p>
+
+
 ---
+
 
 ## 🚀 About Me
 
@@ -19,11 +27,6 @@
 
 ---
 
-## 🛠 Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js,ts,bash,androidstudio,firebase,apple,googlecloud,gradle,firebase,linux,postgres,mysql,nginx,git,github,postman,idea,vscode,githubactions,ubuntu,wordpress,aws,clion,notion,webstorm,ktor" />
-</p>
 
 <p align="center">
   <i>Clean code. Thoughtful systems.</i>
