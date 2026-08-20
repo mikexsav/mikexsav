@@ -1,33 +1,50 @@
 <h1 align="center">Hey, I'm Mike 👋</h1>
-<h3 align="center">Software Engineer • Creator • Tech Enthusiast</h3>
+<h3 align="center">Software Engineer • Android Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Growth-orange?style=flat-square" />
+  I build mobile applications, backend systems and software products.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Architecture-2563EB?style=flat-square" />
+</p>
+
+---
+
+## About Me
+
+- 📱 Mainly focused on **Android development**
+- ⚙️ Interested in **backend engineering and software architecture**
+- 🔐 Exploring **security, encryption and privacy-first systems**
+- 🧠 Experimenting with **AI/ML and local language models**
+- 🚀 Building personal projects and participating in hackathons
+- 📦 Interested in creating software for real-world users
+- 🌍 Rostov-on-Don, Russia
+
+---
 
 ## Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,python,java,js,ts,bash,androidstudio,firebase,apple,googlecloud,gradle,firebase,linux,postgres,mysql,nginx,git,github,postman,idea,vscode,githubactions,ubuntu,wordpress,aws,clion,notion,webstorm,ktor" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,go,python,swift,js,androidstudio,gradle,ktor,firebase,git,github,vscode,figma" />
 </p>
 
+---
+
+## Interests
+
+`Android` · `Kotlin` · `Backend` · `System Design` · `Security` · `AI/ML` · `Local LLMs` · `Open Source`
 
 ---
 
+## Approach
 
-## About Me
-
-- 👨‍💻 Software Engineer building reliable and scalable systems  
-- 🧠 Focused on backend, architecture, and mobile development  
-- 🎯 Clean code, clear structure, real-world impact  
-- 📚 Always learning system design and modern tooling  
-- 🌍 Rostov-on-Don, Russia 🇷🇺
+> I focus on building software that is clear, reliable and complete — not just code that works.
 
 ---
-
 
 <p align="center">
-  <i>Clean code. Thoughtful systems.</i>
+  <b>Build. Learn. Improve.</b>
 </p>
